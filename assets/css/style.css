@@ -93,7 +93,7 @@
   font-family: 'Roboto', sans-serif;
   background: 
     linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), 
-    url('/assets/img/engenharia-eletrica.jpg') no-repeat center center;
+    url('../assets/img/bg.jpg') no-repeat center center;
   background-size: cover;
   background-color: #f0f0f0; /* fallback */
   }
