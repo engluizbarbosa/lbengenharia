@@ -260,7 +260,7 @@
 .imagem-sobre img {
   max-width: 100%;
   height: auto;
-  border-radius: 30% 0 30% 0; /* bordas estilizadas */
+  border-radius: 50%; /* bordas estilizadas */
   box-shadow: 0 8px 20px rgba(0,0,0,0.2);
   object-fit: cover;
 }
